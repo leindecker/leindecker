@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/leindecker/leindecker/blob/output/github-contribution-grid-snake.svg)
 
 ### Hi there !!! Welcome to my Github profile.👋
 
@@ -9,6 +8,8 @@
 
 ## My Background for automation tools
 :arrow_right: Java :arrow_right: Javascript :arrow_right: Selenium Webdriver :arrow_right: Robot Framework :arrow_right: Appium :arrow_right: restAssured
+
+## Top Profile Langs Used
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leindecker&size_weight=0.5&count_weight=0.5&theme=dracula)
 
