@@ -1,3 +1,5 @@
+![Snake animation](https://github.com/leindecker/leindecker/blob/output/github-contribution-grid-snake.svg)
+
 ### Hi there !!! Welcome to my Github profile.👋
 
 ## My name is Guilherme Leindecker and my nickname is "gui"!
