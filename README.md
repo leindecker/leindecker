@@ -6,5 +6,9 @@
 - :computer: Working with Mobile and API Automation, using: Java, Cucumber, restAssured and Appium
 
 ## My Background for automation tools
-:arrow_right: Java Language
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40" height="40"/>
+:arrow_right: Java :arrow_right: Javascript :arrow_right: Selenium Webdriver :arrow_right: Robot Framework :arrow_right: Appium :arrow_right: restAssured
+
+<div>
+<a href="https://github.com/leindecker">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leindecker&layout=compact&langs_count=7&theme=dracula"/>
+</div>
