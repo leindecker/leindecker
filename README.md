@@ -4,7 +4,8 @@
 ## My name is Guilherme Leindecker and my nickname is "gui"!
 
 - 🔭 Currently I am working at South System company.
-- :computer: Working with Mobile and API Automation, using: Java, Cucumber, restAssured and Appium
+- :computer: Working with Mobile and API Automation, using: Java, Cucumber, restAssured and Appium.
+- :heart:  I'm passionate about triathlon, healthy lifestyle and books.
 
 ## My Background for automation tools
 :arrow_right: Java :arrow_right: Javascript :arrow_right: Selenium Webdriver :arrow_right: Robot Framework :arrow_right: Appium :arrow_right: restAssured
