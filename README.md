@@ -1,26 +1,44 @@
+# Hi, I'm Guilherme Leindecker! 👋
 
-### Hi there !!! Welcome to my Github profile.👋
+A highly experienced Quality Assurance (QA) professional with over 10 years of expertise in software testing and automation. Proven track record of developing robust automated testing frameworks and implementing efficient testing strategies that enhance product quality and streamline the development process. Proficient in a variety of automation tools and frameworks such as Selenium, Appium, restAssured, JUnit, and others, with a strong understanding of coding languages like Java and Javascript.
 
-## My name is Guilherme Leindecker and my nickname is "gui"!
+## 🚀 About Me
 
-- 🔭 Currently I am working at South System company.
-- :computer: Working with Mobile and API Automation, using: Java, Cucumber, restAssured and Appium.
-- :heart:  I'm passionate about triathlon, healthy lifestyle and books.
+- 🔭 I'm currently working with Java, Appium and restAssured for mobile and API automation.
 
-## My Background for automation tools
-:arrow_right: Java :arrow_right: Javascript :arrow_right: Selenium Webdriver :arrow_right: Robot Framework :arrow_right: Appium :arrow_right: restAssured
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,java,selenium,aws,azure,docker,gherkin,github,git,mongodb,npm,postman,py,rabbitmq,)](https://skillicons.dev)
 
-## Top Profile Languages Used
+## 🌱 Experience
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leindecker&size_weight=0.5&count_weight=0.5&theme=dracula)
+- 🚀 Created automation projects from scratch
+- PR Revisor
+- QA Tech Lead
+- Web Automation with Java and Javascript language
+- Mobile Automation with Appium AWS Device Farm and Browsertack
+- API testing with Postman and restAssured for automation
+- Code Skills
 
-## Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30" height="30"/>
-          
-## Keep in touch:
+## ⚡ Fun fact: Triathlete and Ironman Finisher 
 
-<div>
-<a href = "mailto:leindecker.guilherme@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-leindecker" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>          
-          
+## 📬 Get in Touch
+
+- Connect with me on [Linkedin](https://www.linkedin.com/in/guilherme-leindecker/)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
