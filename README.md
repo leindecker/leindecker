@@ -1,6 +1,6 @@
 # Hi, I'm Guilherme Leindecker! 👋
 
-A highly experienced Quality Assurance (QA) professional with over 10 years of expertise in software testing and automation. Proven track record of developing robust automated testing frameworks and implementing efficient testing strategies that enhance product quality and streamline the development process. Proficient in a variety of automation tools and frameworks such as Selenium, Appium, restAssured, JUnit, and others, with a strong understanding of coding languages like Java and Javascript.
+A highly experienced Quality Assurance (QA) professional with over 10 years of expertise in software testing and automation. Proficient in a variety of automation tools and frameworks such as Selenium, Appium, restAssured, JUnit, and others, with a strong understanding of coding languages like Java and Javascript.
 
 ## 🚀 About Me
 
