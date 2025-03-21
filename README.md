@@ -4,7 +4,7 @@ A highly experienced Quality Assurance (QA) professional with over 10 years of e
 
 ## 🚀 About Me
 
-- 🔭I have over 10 years of experience in software quality assurance. I have dedicated my career to ensuring software consistency, performance and reliability through a strong blend of automation and manual testing. I am skilled in web, API and mobile test automation, enabling me to create scalable testing solutions that drive product excellence.
+🔭I have over 10 years of experience in software quality assurance. I have dedicated my career to ensuring software consistency, performance and reliability through a strong blend of automation and manual testing. I am skilled in web, API and mobile test automation, enabling me to create scalable testing solutions that drive product excellence.
 
 I began my career with a passion for automation and have since honed my skills in Java programming, building automation projects from the ground up. I take ownership of defining the coding process, implementing clean architecture, and establishing efficient test automation frameworks that integrate seamlessly into CI/CD pipelines.
 
